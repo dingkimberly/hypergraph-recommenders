@@ -1,4 +1,4 @@
-# Hypergraph Recommenders
+# Hypergraphs
 
 Can we use hypergraphs to improve recommender systems?
 
